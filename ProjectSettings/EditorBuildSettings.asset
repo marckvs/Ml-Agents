@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/ML-Agents/Examples/3DBall/3DBall.unity
+    guid: 6f62a2ccb3830437ea4e85a617e856b3
+  - enabled: 0
+    path: Assets/ML-Agents/Examples/CuboX/CuboX.unity
+    guid: 4ded117432077fb4fb6d3f0ef25c89c8
+  - enabled: 0
+    path: Assets/ML-Agents/Examples/CuboX/CuboXZMultiple.unity
+    guid: d769bdd901e518041944a3ea98788f89
+  - enabled: 0
+    path: Assets/ML-Agents/Examples/CuboX/CuboXZ.unity
+    guid: 3880b2a6f30c6d54b8812975e25e3fcf
+  - enabled: 0
+    path: Assets/ML-Agents/Examples/CuboX/CuboXZMultipleCurriculum.unity
+    guid: 2898bfc37ebbd8b4a9f14182ba200bf0
+  - enabled: 0
+    path: Assets/ML-Agents/Examples/CuboX/CuboXZMultipleCurriculum2.unity
+    guid: db54d3d6f68d6c94da1d2bbf749fe5aa
+  - enabled: 0
+    path: Assets/ML-Agents/Examples/CuboX/CuboXZMultipleCurriculum3.unity
+    guid: 433e149db83323e4c8adc31754577e62
+  - enabled: 0
+    path: Assets/ML-Agents/Examples/CuboX/CuboXZMultipleCurriculum4.unity
+    guid: a8fcec3a0f1ec6542ae8d51ec8fda0d4
+  - enabled: 0
+    path: Assets/ML-Agents/Examples/CuboX/CuboXZMultipleCurriculum5.unity
+    guid: 6b83f00a6ea742c4590441faf9b4240b
+  - enabled: 0
+    path: Assets/ML-Agents/Examples/CuboX/CuboXZMultipleCurriculum6.unity
+    guid: 216c055463c1a404c82d1344b208a7e1
+  - enabled: 1
+    path: Assets/ML-Agents/Examples/CuboX/CuboXZMultipleCurriculum7.unity
+    guid: 2fe9c872a346e294fbd091ea40121a02
+  m_configObjects: {}
